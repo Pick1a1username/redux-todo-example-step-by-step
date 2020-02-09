@@ -1,1 +1,1 @@
-# react-todo-example-step-by-step
+# redux-todo-example-step-by-step
